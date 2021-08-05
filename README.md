@@ -1,2 +1,2 @@
 # red
-red repo
+red repo for git command demonstratation
